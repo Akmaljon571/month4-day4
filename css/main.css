@@ -1,0 +1,31 @@
+body{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ora{
+    margin: 0 auto;
+    width: 300px;
+    height: auto;
+    margin-top:100px;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(90deg, rgba(244,4,13,1) 29%, rgba(223,231,11,1) 95%);
+}
+
+.fom{
+    padding: 30px;
+    background-color:linear-gradient(90deg, rgba(244,4,13,1) 29%, rgba(223,231,11,1) 95%);
+    margin-bottom: 0;
+}
+
+.form2{
+    background:linear-gradient(90deg, rgba(2,0,36,1) 29%, rgba(231,11,34,1) 95%);
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 20px;
+}
